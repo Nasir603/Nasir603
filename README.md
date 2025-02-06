@@ -6,8 +6,7 @@ Software Engineer
 
 🚀 I've been learning to code for 2 years, starting with HTML, CSS, and JavaScript. After a year, I discovered my passion for building software, and now I'm diving into Python to expand my skills!
 
-* 🌍  I'm based in Reading, UK
-* ✉️  You can contact me at [n.khanrahimi@gmail.com](mailto:n.khanrahimi@gmail.com)
+* 🌍  I'm based in UK
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on interesting projects
 
